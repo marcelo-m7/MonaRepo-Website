@@ -1,0 +1,76 @@
+{
+  "navigation": {
+    "home": "Home",
+    "solutions": "Solutions",
+    "projects": "Projects",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "startProject": "Start Project",
+    "toggleNavigation": "Toggle navigation",
+    "backToTop": "Back to top"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "solutions": "Solutions",
+    "aboutUs": "About Us",
+    "blog": "Blog",
+    "contact": "Contact",
+    "ecosystem": "Monynha Ecosystem",
+    "email": "Email",
+    "location": "Location",
+    "copyright": "© {{year}} Monynha Softwares. All rights reserved.",
+    "madeWith": "Made with",
+    "andPride": "and pride",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "tagline": "Monynha Softwares: Technology with pride, diversity and resistance",
+    "description": "Democratizing innovation with inclusive and accessible solutions that empower diverse communities and promote social equity.",
+    "solutionList": {
+      "boteco": "Boteco Pro",
+      "assistina": "AssisTina AI",
+      "custom": "Custom Development",
+      "integration": "AI Integration"
+    }
+  },
+  "index": {
+    "hero": {
+      "headline": "Building the <0/><1>Future with Technology</1>",
+      "description": "Democratizing innovation with inclusive and accessible solutions that empower diverse communities and promote social equity.",
+      "cta": "Start Project",
+      "viewSolutions": "View Solutions"
+    },
+    "why": {
+      "title": "Why choose Monynha Softwares Agency?",
+      "description": "We combine technical expertise with business intelligence to deliver solutions that make a difference.",
+      "features": {
+        "ai": {
+          "title": "AI Solutions",
+          "desc": "Leverage cutting-edge artificial intelligence to automate and optimize your processes."
+        },
+        "fast": {
+          "title": "Fast Implementation",
+          "desc": "Get your solutions up and running quickly with our agile process."
+        },
+        "secure": {
+          "title": "Secure and Reliable",
+          "desc": "Built with security focus to protect your data and operations."
+        },
+        "support": {
+          "title": "Specialized Support",
+          "desc": "Our dedicated team provides ongoing support for all your needs."
+        }
+      }
+    },
+    "solutions": {
+      "title": "Our Solutions",
+      "description": "Proven solutions that have transformed companies across various sectors."
+    },
+    "cta": {
+      "title": "Ready to Transform Your Business?",
+      "description": "Let's discuss how our AI solutions can optimize your operations and generate growth.",
+      "getStarted": "Get Started Today"
+    },
+    "learnMore": "Learn More"
+  }
+}

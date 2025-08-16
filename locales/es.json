@@ -1,0 +1,76 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "solutions": "Soluciones",
+    "projects": "Proyectos",
+    "about": "Acerca de",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "startProject": "Iniciar Proyecto",
+    "toggleNavigation": "Alternar navegación",
+    "backToTop": "Volver arriba"
+  },
+  "footer": {
+    "quickLinks": "Enlaces Rápidos",
+    "solutions": "Soluciones",
+    "aboutUs": "Acerca de Nosotros",
+    "blog": "Blog",
+    "contact": "Contacto",
+    "ecosystem": "Ecosistema Monynha",
+    "email": "Email",
+    "location": "Ubicación",
+    "copyright": "© {{year}} Monynha Softwares. Todos los derechos reservados.",
+    "madeWith": "Hecho con",
+    "andPride": "y orgullo",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Uso",
+    "tagline": "Monynha Softwares: Tecnología con orgullo, diversidad y resistencia",
+    "description": "Democratizando la innovación con soluciones inclusivas y accesibles que empoderan comunidades diversas y promueven la equidad social.",
+    "solutionList": {
+      "boteco": "Boteco Pro",
+      "assistina": "AssisTina AI",
+      "custom": "Desarrollo Personalizado",
+      "integration": "Integración de IA"
+    }
+  },
+  "index": {
+    "hero": {
+      "headline": "Construyendo el <0/><1>Futuro con Tecnología</1>",
+      "description": "Democratizando la innovación con soluciones inclusivas y accesibles que empoderan comunidades diversas y promueven la equidad social.",
+      "cta": "Iniciar Proyecto",
+      "viewSolutions": "Ver Soluciones"
+    },
+    "why": {
+      "title": "¿Por qué elegir Monynha Softwares Agency?",
+      "description": "Combinamos experiencia técnica con inteligencia de negocios para entregar soluciones que marcan la diferencia.",
+      "features": {
+        "ai": {
+          "title": "Soluciones con IA",
+          "desc": "Aprovecha la inteligencia artificial de vanguardia para automatizar y optimizar tus procesos."
+        },
+        "fast": {
+          "title": "Implementación Rápida",
+          "desc": "Pon tus soluciones en funcionamiento rápidamente con nuestro proceso ágil."
+        },
+        "secure": {
+          "title": "Seguro y Confiable",
+          "desc": "Construido con enfoque en seguridad para proteger tus datos y operaciones."
+        },
+        "support": {
+          "title": "Soporte Especializado",
+          "desc": "Nuestro equipo dedicado proporciona soporte continuo para todas tus necesidades."
+        }
+      }
+    },
+    "solutions": {
+      "title": "Nuestras Soluciones",
+      "description": "Soluciones probadas que han transformado empresas en diversos sectores."
+    },
+    "cta": {
+      "title": "¿Listo para Transformar tu Negocio?",
+      "description": "Discutamos cómo nuestras soluciones de IA pueden optimizar tus operaciones y generar crecimiento.",
+      "getStarted": "Comenzar Hoy"
+    },
+    "learnMore": "Saber Más"
+  }
+}

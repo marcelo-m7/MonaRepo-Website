@@ -1,0 +1,76 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "solutions": "Solutions",
+    "projects": "Projets",
+    "about": "À propos",
+    "blog": "Blog",
+    "contact": "Contact",
+    "startProject": "Démarrer un Projet",
+    "toggleNavigation": "Basculer la navigation",
+    "backToTop": "Retour en haut"
+  },
+  "footer": {
+    "quickLinks": "Liens Rapides",
+    "solutions": "Solutions",
+    "aboutUs": "À Propos de Nous",
+    "blog": "Blog",
+    "contact": "Contact",
+    "ecosystem": "Écosystème Monynha",
+    "email": "Email",
+    "location": "Localisation",
+    "copyright": "© {{year}} Monynha Softwares. Tous droits réservés.",
+    "madeWith": "Fait avec",
+    "andPride": "et fierté",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "tagline": "Monynha Softwares: Technologie avec fierté, diversité et résistance",
+    "description": "Démocratiser l'innovation avec des solutions inclusives et accessibles qui autonomisent les communautés diverses et promeuvent l'équité sociale.",
+    "solutionList": {
+      "boteco": "Boteco Pro",
+      "assistina": "AssisTina AI",
+      "custom": "Développement Personnalisé",
+      "integration": "Intégration IA"
+    }
+  },
+  "index": {
+    "hero": {
+      "headline": "Construire l'<0/><1>Avenir avec la Technologie</1>",
+      "description": "Démocratiser l'innovation avec des solutions inclusives et accessibles qui autonomisent les communautés diverses et promeuvent l'équité sociale.",
+      "cta": "Démarrer un Projet",
+      "viewSolutions": "Voir les Solutions"
+    },
+    "why": {
+      "title": "Pourquoi choisir Monynha Softwares Agency?",
+      "description": "Nous combinons l'expertise technique avec l'intelligence d'affaires pour livrer des solutions qui font la différence.",
+      "features": {
+        "ai": {
+          "title": "Solutions IA",
+          "desc": "Tirez parti de l'intelligence artificielle de pointe pour automatiser et optimiser vos processus."
+        },
+        "fast": {
+          "title": "Implémentation Rapide",
+          "desc": "Mettez vos solutions en marche rapidement avec notre processus agile."
+        },
+        "secure": {
+          "title": "Sécurisé et Fiable",
+          "desc": "Construit avec un focus sur la sécurité pour protéger vos données et opérations."
+        },
+        "support": {
+          "title": "Support Spécialisé",
+          "desc": "Notre équipe dédiée fournit un support continu pour tous vos besoins."
+        }
+      }
+    },
+    "solutions": {
+      "title": "Nos Solutions",
+      "description": "Solutions éprouvées qui ont transformé des entreprises dans divers secteurs."
+    },
+    "cta": {
+      "title": "Prêt à Transformer Votre Entreprise?",
+      "description": "Discutons de la façon dont nos solutions IA peuvent optimiser vos opérations et générer de la croissance.",
+      "getStarted": "Commencer Aujourd'hui"
+    },
+    "learnMore": "En Savoir Plus"
+  }
+}
